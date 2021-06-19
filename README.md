@@ -10,9 +10,11 @@ Una larga historia resumida en:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
-<div align="left" style="background:#414a50; padding: 25px 0;">
-   
-     <a href="https://www.linkedin.com/in/jeleuterioam/">
+<div align="center" style="background:#414a50; padding: 25px 0;">
+    <a href="https://twitter.com/ThisIsIvoLondon">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+    </a>
+     <a href="https://www.linkedin.com/in/ivelin-iliev-16272baa/">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
